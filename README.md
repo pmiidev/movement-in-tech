@@ -23,7 +23,7 @@ Selain list topik yang sudah ada, berikut dilampirkan juga list pembicara yang s
 ## Movement in tech #1 (5 Oktober 2022)
 ## Jadwal Pembicara Bulan Oktober
 - Fauzi Tri Musyafa (Get we know about devops engineering)
-- Nazarudin Latif
+- Nazarudin Latif (basic programming)
 ## Jadwal Pembicara Bulan November
 - To Be Anounce
 ## List calon moderator dan pembicara
