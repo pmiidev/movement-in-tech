@@ -21,7 +21,7 @@ Buat teman-teman yang mau jadi pembicara dan ingin melihat referensi topik apa s
 Selain list topik yang sudah ada, berikut dilampirkan juga list pembicara yang sudah dirandom. agar teman-teman bisa bisa lebih prepare dan menghindari dadakan.
 
 ## Jadwal Pembicara Bulan Oktober
-## Movement in tech #1 (12 Oktober 2022)
+## Movement in tech v.001 (12 Oktober 2022)
 - Fauzi Tri Musyafa (Get we know about devops engineering)
 - Nazarudin Latif (basic programming)
 ## Jadwal Pembicara Bulan November
