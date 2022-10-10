@@ -5,7 +5,7 @@
 - bit.ly/DEV-MovementInTech (link zoom yg relevan)
 # Movement in tech?
 
-Movement in tech adalah acara sharing session lembaga PMII Dev. Acara ini diselenggarakan setiap hari rabu pukul 19.00. Di acara Movement in tech kita akan mendapatkan topik pembicaraan yang sangat beragam, tidak melulu soal teknologi tapi apapun itu selama bisa memberikan manfaat kepada pendengar dan pembicara itu senditi tentunya. Pembicara Movement in tech ditentukan berdasarkan urutan yang dilakukan secara random dari semua anggota divisi ITDev. Setiap sesinya akan diisi oleh dua orang pembicara dan seorang moderator.
+Movement in tech adalah acara sharing session lembaga PMII Dev. Acara ini diselenggarakan setiap hari jumat pukul 19.00. Di acara Movement in tech kita akan mendapatkan topik pembicaraan yang sangat beragam, tidak melulu soal teknologi tapi apapun itu selama bisa memberikan manfaat kepada pendengar dan pembicara itu senditi tentunya. Pembicara Movement in tech ditentukan berdasarkan urutan yang dilakukan secara random dari semua anggota divisi ITDev. Setiap sesinya akan diisi oleh dua orang pembicara dan seorang moderator.
 
 
 Salah satu tujuan utama Movement in tech adalah sarana untuk berbagi dan bercerita, juga sebagai improvement skill public speaking pembicara dan moderator. Sehingga diperlukan konsep acara yang bisa mengakomodir tujuan di atas tapi dikemas dengan santai. Dalam perjalannya Movement in tech banyak sekali melakukan perubahan dan penyesuain rule. Hal ini dilakukan untuk menemukan keseimbangan yang pas untuk acara sharing session yang ringan namun tetap memberikan manfaat dan dampak. Nah berikut ini beberapa rule yang saat ini berlaku di Movement in tech.
@@ -21,7 +21,7 @@ Buat teman-teman yang mau jadi pembicara dan ingin melihat referensi topik apa s
 Selain list topik yang sudah ada, berikut dilampirkan juga list pembicara yang sudah dirandom. agar teman-teman bisa bisa lebih prepare dan menghindari dadakan.
 
 ## Jadwal Pembicara Bulan Oktober
-## Movement in tech v.001 (12 Oktober 2022)
+## Movement in tech v.001 (14 Oktober 2022)
 - Fauzi Tri Musyafa (Get we know about devops engineering)
 - Nazarudin Latif (basic programming)
 ## Jadwal Pembicara Bulan November
