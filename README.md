@@ -2,7 +2,7 @@
 ## Room Movement in tech
 
 ### Room Movement in tech: 
-- bit.ly/movementInTech1 (link zoom yg relevan)
+- [bit.ly/join-mit-1](https://bit.ly/join-mit-1) 
 
 # Movement in tech?
 
@@ -24,7 +24,7 @@ Selain list topik yang sudah ada, berikut dilampirkan juga list pembicara yang s
 
 ## Jadwal Pembicara Bulan Oktober
 ## Movement in Tech #1 (Jumat, 14 Oktober 2022)
-- Fauzi Tri Musyafa (Get we know about devops engineering)
+- Fauzi Tri Musyafa (devops engineering)
 - Nazarudin Latif (basic programming)
 
 ## Jadwal Pembicara Bulan November
