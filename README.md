@@ -27,8 +27,8 @@ Selain list topik yang sudah ada, berikut dilampirkan juga list pembicara yang s
 - Fauzi Tri Musyafa (devops engineering)
 - Nazarudin Latif (basic programming)
 ### Movement in Tech #2 (Jumat, 21 Oktober 2022)
-- Moh. Amanulloh Mz (Learn Internet of Things)
-- Muhammad Afifuddin (Learn React JS)
+- Moh. Amanulloh Mz (Internet of Things)
+- Muhammad Afifuddin (Front End using React JS)
 
 ## Jadwal Pembicara Bulan November
 - To Be Anounce
