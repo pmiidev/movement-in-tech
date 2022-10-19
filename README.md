@@ -2,11 +2,11 @@
 ## Room Movement in tech
 
 ### Let's join this Room: 
-- [bit.ly/join-mit-1](https://bit.ly/join-mit-1) 
+- [bit.ly/join-mit-2](https://bit.ly/join-mit-2) 
 
 # Movement in tech?
 
-Movement in Tech (MiT) adalah acara sharing session lembaga PMII Dev. Acara ini diselenggarakan setiap hari jumat pukul 19.00 WIB. Di acara Movement in Tech kita akan mendapatkan topik pembicaraan yang sangat beragam, tidak melulu soal teknologi tapi apapun itu selama bisa memberikan manfaat kepada pendengar dan pembicara itu senditi tentunya. Pembicara Movement in tech ditentukan berdasarkan urutan yang dilakukan secara random dari semua anggota divisi ITDev. Setiap sesinya akan diisi oleh dua orang pembicara dan seorang moderator.
+Movement in Tech (MiT) adalah acara sharing session lembaga PMII Dev. Acara ini diselenggarakan setiap hari jumat pukul 19.00 WIB. Di acara Movement in Tech kita akan mendapatkan topik pembicaraan yang sangat beragam, tidak melulu soal teknologi tapi apapun itu selama bisa memberikan manfaat kepada pendengar dan pembicara itu sendiri tentunya. Pembicara Movement in tech ditentukan berdasarkan urutan yang dilakukan secara random dari semua anggota divisi ITDev. Setiap sesinya akan diisi oleh dua orang pembicara dan seorang moderator.
 
 Salah satu tujuan utama MiT yakni sebagai sarana untuk berbagi dan bercerita, juga sebagai improvement skill public speaking pembicara dan moderator. Sehingga diperlukan konsep acara yang bisa mengakomodir tujuan di atas tapi dikemas dengan santai. Dalam setiap perjalan MiT kedepan tentu akan banyak terjadi perubahan dan penyesuain rule. Hal ini dilakukan untuk menemukan keseimbangan yang pas untuk acara sharing session yang ringan namun tetap memberikan manfaat dan dampak. Nah berikut ini beberapa rule yang saat ini berlaku di Movement in Tech.
 
@@ -28,7 +28,7 @@ Selain list topik yang sudah ada, berikut dilampirkan juga list pembicara yang s
 - Nazarudin Latif (basic programming)
 ### Movement in Tech #2 (Jumat, 21 Oktober 2022)
 - Moh. Amanulloh Mz (Learn Internet of Things)
-- Muhammad Afifuddin (Learn React JS)
+- Muhammad Afifuddin (Front-end using React JS)
 
 ## Jadwal Pembicara Bulan November
 - To Be Anounce
