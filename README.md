@@ -17,7 +17,7 @@ Salah satu tujuan utama MiT yakni sebagai sarana untuk berbagi dan bercerita, ju
 
 Oh ya Movement in Tech ini pun dibedakan berdasarkan versi layaknya aplikasi. Kenapa? tujuannya untuk memudahkan melihat perbedaan atau improvement yang telah dilakukan. jadi penambahan versi ini dilakukan setiap adanya improvement di Movement in tech.
 
-Buat teman-teman yang mau jadi pembicara dan ingin melihat referensi topik apa saja yang sudah disampaikan di pertemuan-pertemuan sebelumnya, bisa dilihat di bagian Nested Document (TBD) dibawah. Atau buat teman-teman yang mau lihat-lihat summary Movement in tech juga ada di bagian yang sama.
+Buat teman-teman yang mau jadi pembicara dan ingin melihat referensi topik apa saja yang sudah disampaikan di pertemuan-pertemuan sebelumnya, bisa dilihat di bagian Nested Document dibawah. Atau buat teman-teman yang mau lihat-lihat summary Movement in tech juga ada di bagian yang sama.
 
 ## Jadwal Pembicara dan Moderator
 Selain list topik yang sudah ada, berikut dilampirkan juga list pembicara yang sudah dirandom. agar teman-teman bisa bisa lebih prepare dan menghindari dadakan.
@@ -68,3 +68,8 @@ Kerangka pembicara memudahkan pembicara dalam menyusun materi. Untuk sarannya bi
 - Masalahnya
 - Solusi
 - Kesimpulan
+
+
+## Nested Document
+- [movement-in-tech-14-10-2022 [DevOps Engineering, Basic Programming]](https://github.com/pmiidev/movement-in-tech/blob/main/movement-in-tech-14-10-2022.md)
+- [movement-in-tech-21-10-2022 [Internet Of things, Front-end using React JS]](https://github.com/pmiidev/movement-in-tech/blob/main/movement-in-tech-21-10-2022.md)
