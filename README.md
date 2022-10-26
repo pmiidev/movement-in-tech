@@ -2,7 +2,7 @@
 ## Room Movement in tech
 
 ### Let's join this Room: 
-- [bit.ly/join-mit-2](https://bit.ly/join-mit-2) 
+- [bit.ly/join-mit-3](https://bit.ly/join-mit-3) 
 
 # Movement in tech?
 
@@ -29,6 +29,9 @@ Selain list topik yang sudah ada, berikut dilampirkan juga list pembicara yang s
 ### Movement in Tech #2 (Jumat, 21 Oktober 2022)
 - Moh. Amanulloh Mz (Learn Internet of Things)
 - Muhammad Afifuddin (Front-end using React JS)
+### Movement in Tech #3 (Jumat, 28 Oktober 2022)
+- M. Irfan Agus Saputro (Data Science for PMII)
+- Misbakhul Akbar (On-confirmation)
 
 ## Jadwal Pembicara Bulan November
 - To Be Anounce
