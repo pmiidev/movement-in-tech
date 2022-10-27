@@ -31,7 +31,7 @@ Selain list topik yang sudah ada, berikut dilampirkan juga list pembicara yang s
 - Muhammad Afifuddin (Front-end using React JS)
 ### Movement in Tech #3 (Jumat, 28 Oktober 2022)
 - M. Irfan Agus Saputro (Data Science for PMII)
-- Misbakhul Akbar (On-confirmation)
+- Misbakhul Akbar (IT Implementation in Government)
 
 ## Jadwal Pembicara Bulan November
 - To Be Anounce
