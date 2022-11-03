@@ -2,7 +2,7 @@
 ## Room Movement in tech
 
 ### Let's join this Room: 
-- [bit.ly/join-mit-3](https://bit.ly/join-mit-3) 
+- [bit.ly/join-mit-4](https://bit.ly/join-mit-4) 
 
 # Movement in tech?
 
@@ -34,7 +34,10 @@ Selain list topik yang sudah ada, berikut dilampirkan juga list pembicara yang s
 - Misbakhul Akbar (IT Implementation in Government)
 
 ## Jadwal Pembicara Bulan November
-- To Be Anounce
+### Movement in Tech #4 (Jumat, 4 November 2022)
+- Dayat Hidayat (Big Data and Data Mining)
+- M. Aras Prabowo (Digital Accounting)
+
 ## List calon moderator dan pembicara
 - To Be Anounce
 
