@@ -79,3 +79,5 @@ Kerangka pembicara memudahkan pembicara dalam menyusun materi. Untuk sarannya bi
 ## Nested Document
 - [movement-in-tech-14-10-2022 [DevOps Engineering, Basic Programming]](https://github.com/pmiidev/movement-in-tech/blob/main/movement-in-tech-14-10-2022.md)
 - [movement-in-tech-21-10-2022 [Internet Of things, Front-end using React JS]](https://github.com/pmiidev/movement-in-tech/blob/main/movement-in-tech-21-10-2022.md)
+- [movement-in-tech-28-10-2022 [Data Science For PMII, IT Implementation In Government]](https://github.com/pmiidev/movement-in-tech/blob/main/movement-in-tech-28-10-2022.md)
+- [movement-in-tech-04-11-2022 [Digital Accounting, Big data & Data Mining]](https://github.com/pmiidev/movement-in-tech/blob/main/movement-in-tech-04-11-2022.md)
