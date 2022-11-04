@@ -4,6 +4,9 @@
 ### Let's join this Room: 
 - [bit.ly/join-mit-4](https://bit.ly/join-mit-4) 
 
+### Virtual Background download di sini:  
+- https://drive.google.com/file/d/1twB6FwyfpAAU4fs42ICG3tqQ5T2qXdE9/view?usp=sharing
+
 # Movement in tech?
 
 Movement in Tech (MiT) adalah acara sharing session lembaga PMII Dev. Acara ini diselenggarakan setiap hari jumat pukul 19.00 WIB. Di acara Movement in Tech kita akan mendapatkan topik pembicaraan yang sangat beragam, tidak melulu soal teknologi tapi apapun itu selama bisa memberikan manfaat kepada pendengar dan pembicara itu sendiri tentunya. Pembicara Movement in tech ditentukan berdasarkan urutan yang dilakukan secara random dari semua anggota divisi ITDev. Setiap sesinya akan diisi oleh dua orang pembicara dan seorang moderator.
