@@ -10,7 +10,7 @@
 🔥 Nazarudin Latif
 
 ## Materi:
-- [[https://drive.google.com/drive/folders/1g1LcZrDUP3AnM4QmwZ3HL-Oj0EO_o5nq?usp=sharing](https://drive.google.com/drive/folders/16t4Y8lXSaFMuKQrTb15-ht2x9DIXwrfa?usp=sharing)](https://drive.google.com/drive/folders/1H8RYo9nbHIOKN8z7NfQRlx3ZMPRix-u0?usp=sharing)
+- https://drive.google.com/drive/folders/1H8RYo9nbHIOKN8z7NfQRlx3ZMPRix-u0?usp=sharing
 
 
 
